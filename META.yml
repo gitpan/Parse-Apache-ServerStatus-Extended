@@ -12,4 +12,4 @@ requires:
   Parse::Apache::ServerStatus: 0
   Web::Scraper: 0
   perl: 5.8.1
-version: 0.01
+version: 0.02
